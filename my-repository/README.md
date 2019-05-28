@@ -1,1 +1,1 @@
-This is my README for the Git Basics Lab
+This is my README for the Git Basics Lab.
